@@ -17,3 +17,11 @@ Typically, the pipeline involves
 - Using the model to predict scores (Credit rating) 
 - Introducing penalty factors to check for certain conditions
 - Validating the model using industry specific approaches(Statistical validation) 
+
+## Requirements
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
